@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+.strikeThrough{
+  text-decoration: line-through;
+}
+
+.flexItems{
+  display: inline-flex;
+}
+
+.paragraph{
+  margin: 0px !important
+}
